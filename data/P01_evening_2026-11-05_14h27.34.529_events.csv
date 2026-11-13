@@ -1,0 +1,52 @@
+time,event,code,category,detail,phase,session,cycle,trial
+1767.549147,session_start,250,,evening_from1,,,,
+1770.329204,stage_skipped,104,,welcome,,,,
+1771.067635,stage_skipped,104,,localizer_evening,localizer,evening,,
+1771.768183,stage_skipped,104,,study_instructions_cycle1,localizer,evening,,
+1771.784857,block_start,100,,study_evening_cycle1,study,evening,1,
+1771.801477,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+1772.218656,stage_skipped,104,,study_evening_cycle1,study,evening,1,1
+1772.769047,stage_skipped,104,,shades_evening_cycle1,shades_of_grey,evening,1,
+1773.319476,stage_skipped,104,,recall_instructions_cycle1,shades_of_grey,evening,1,
+1773.336130,block_start,100,,recall_evening_cycle1,recall,evening,1,
+1773.352753,recall_fixation,70,,,recall,evening,1,1
+1774.853975,recall_cue,65,body,stimuli/b (05).jpg|-1,recall,evening,1,1
+1775.354409,memory_judgement_blank,71,,,recall,evening,1,1
+1780.341861,memory_timeout,74,,,recall,evening,1,1
+1780.358523,choice_screen,75,,,recall,evening,1,1
+1788.565556,choice_response,76,,slot_15,recall,evening,1,1
+1788.598547,recall_fixation,70,,,recall,evening,1,2
+1789.682828,recall_cue,61,face,stimuli/f (01).jpg|+2,recall,evening,1,2
+1790.183209,memory_judgement_blank,71,,,recall,evening,1,2
+1795.170699,memory_timeout,74,,,recall,evening,1,2
+1795.187325,choice_screen,75,,,recall,evening,1,2
+1796.488626,choice_response,76,,slot_9,recall,evening,1,2
+1796.521762,recall_fixation,70,,,recall,evening,1,3
+1797.639433,recall_cue,62,object,stimuli/o (01).jpg|-3,recall,evening,1,3
+1798.139773,memory_judgement_blank,71,,,recall,evening,1,3
+1803.127142,memory_timeout,74,,,recall,evening,1,3
+1803.143822,choice_screen,75,,,recall,evening,1,3
+1813.139511,choice_timeout,79,,,recall,evening,1,3
+1813.168750,recall_fixation,70,,,recall,evening,1,4
+1814.603306,recall_cue,63,scene,stimuli/s (03).jpg|-2,recall,evening,1,4
+1815.103697,memory_judgement_blank,71,,,recall,evening,1,4
+1820.091170,memory_timeout,74,,,recall,evening,1,4
+1820.107868,choice_screen,75,,,recall,evening,1,4
+1830.099457,choice_timeout,79,,,recall,evening,1,4
+1830.132736,recall_fixation,70,,,recall,evening,1,5
+1831.150243,recall_cue,63,scene,stimuli/s (06).jpg|-2,recall,evening,1,5
+1831.650658,memory_judgement_blank,71,,,recall,evening,1,5
+1836.638147,memory_timeout,74,,,recall,evening,1,5
+1836.654692,choice_screen,75,,,recall,evening,1,5
+1846.629890,choice_timeout,79,,,recall,evening,1,5
+1846.663085,recall_fixation,70,,,recall,evening,1,6
+1848.066989,recall_cue,65,body,stimuli/b (08).jpg|+2,recall,evening,1,6
+1848.564582,memory_judgement_blank,71,,,recall,evening,1,6
+1853.552000,memory_timeout,74,,,recall,evening,1,6
+1853.568628,choice_screen,75,,,recall,evening,1,6
+1863.560285,choice_timeout,79,,,recall,evening,1,6
+1863.593563,recall_fixation,70,,,recall,evening,1,7
+1864.727889,recall_cue,65,body,stimuli/b (02).jpg|-2,recall,evening,1,7
+1865.228256,memory_judgement_blank,71,,,recall,evening,1,7
+1870.215766,memory_timeout,74,,,recall,evening,1,7
+1870.232362,choice_screen,75,,,recall,evening,1,7

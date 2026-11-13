@@ -1,0 +1,582 @@
+35.9837 	INFO 	Loaded monitor calibration from ['2026_10_06 13:32']
+36.1375 	WARNING 	User requested fullscreen with size [1280  800], but screen is actually [1512, 982]. Using actual size
+36.2211 	INFO 	Using renderer 'Apple M3 Pro' for graphics
+36.2211 	INFO 	OpenGL version supported by driver is 2..
+37.3506 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x33270ecd0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x33270ec10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.5, -0.5, -0.5]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x333c81d90>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([3024, 1964]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+37.3506 	EXP 	window1: backgroundImage = None
+37.3506 	EXP 	window1: backgroundFit = 'cover'
+37.9612 	INFO 	keyboard.Keyboard is using ptb backend.
+37.9883 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([0., 0., 0.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.06), italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+37.9886 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.035, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1.2)
+37.9888 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.028000000000000004, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.42]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1.4)
+37.9892 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.12, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+37.9896 	EXP 	Created unnamed Rect = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=4, name='unnamed Rect', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...))
+37.9929 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([0., 0., 0.]), lineColorSpace='rgb', lineRGB=array([0, 0, 0]), lineWidth=1.5, name='unnamed Circle', opacity=0.5, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+37.9940 	EXP 	Added new global key event: quit
+37.9940 	DATA 	EVENT session_start code=250 evening_from1
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.035)
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.035)
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.035)
+38.0087 	EXP 	unnamed TextStim: text = 'Welcome!\n\nToday you will look at pictures and do some short tasks.\n\nThe experimenter will explain each part as we go.'
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.028)
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.028)
+38.0087 	EXP 	unnamed TextStim: height = np.float64(0.028)
+38.0087 	EXP 	unnamed TextStim: text = 'Press SPACE to continue'
+38.5087 	INFO 	Keyboard events cleared
+52.6925 	EXP 	Device response: <KeyPress from None: t=52.68988408334553, value=space, duration=None>
+52.7015 	DATA 	Keypress: space
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.035)
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.035)
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.035)
+52.7170 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.\n\nAfterwards there is a short counting task and then a memory test.'
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.028)
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.028)
+52.7170 	EXP 	unnamed TextStim: height = np.float64(0.028)
+52.7170 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+53.2171 	INFO 	Keyboard events cleared
+54.4529 	DATA 	Keypress: space
+54.4536 	EXP 	Device response: <KeyPress from None: t=54.44743837509304, value=space, duration=None>
+54.4792 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (04).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4809 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (07).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4827 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (02).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4842 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (04).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4857 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (06).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4873 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (09).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4891 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (04).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4905 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (06).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4920 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (06).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4934 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (10).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4949 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (05).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4962 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (07).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4977 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (03).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.4992 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (08).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5006 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (04).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5020 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (10).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5032 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (07).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5048 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (05).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5065 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (08).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5080 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (09).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5096 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (03).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5111 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (09).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5126 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (02).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5139 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (05).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5153 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (09).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5166 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (04).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5180 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (06).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5195 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (06).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5210 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (10).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5224 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (03).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5237 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (01).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5250 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (03).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5263 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (01).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5279 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (09).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5295 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (08).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5308 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (02).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5322 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (05).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5337 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (07).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5351 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (02).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5365 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (02).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5380 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (05).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5395 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (10).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5410 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (03).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5422 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (07).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5436 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (10).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5450 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/w (08).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5465 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/f (08).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5478 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/b (01).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5493 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/s (01).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5505 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='stimuli/o (01).jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.40733198, 0.40733198]), texRes=128, units='height', win=Window(...))
+54.5505 	DATA 	EVENT block_start code=100 study_evening_cycle1
+54.5587 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+54.9586 	DATA 	EVENT study_fixation code=16 
+55.1919 	DATA 	EVENT study_image code=15 stimuli/b (07).jpg
+55.1961 	DATA 	Keypress: function
+55.5545 	DATA 	Keypress: f10
+55.5562 	DATA 	EVENT stage_skipped code=104 study_evening_cycle1
+55.5568 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+55.5753 	EXP 	unnamed TextStim: height = np.float64(0.035)
+55.5753 	EXP 	unnamed TextStim: height = np.float64(0.035)
+55.5753 	EXP 	unnamed TextStim: height = np.float64(0.035)
+55.5753 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+55.5753 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+56.0754 	INFO 	Keyboard events cleared
+57.0054 	DATA 	Keypress: space
+57.0090 	EXP 	Device response: <KeyPress from None: t=57.00136920856312, value=space, duration=None>
+57.0253 	DATA 	EVENT shades_start code=50 shades_evening_cycle1
+57.0253 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0420 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.0919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1003 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1335 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1503 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1835 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.1919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2003 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2085 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2753 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.2919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3585 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3753 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.3919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4253 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4751 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.4919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5003 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.5986 	DATA 	Keypress: function
+57.6002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.6919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7085 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7253 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7835 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.7919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8003 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8253 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.8919 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9253 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+57.9920 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0003 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0336 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0669 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0752 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0836 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.0918 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1002 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1086 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1169 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1252 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1335 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1419 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1502 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1586 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1668 	EXP 	unnamed TextStim: foreColor = [0, 0, 0]
+58.1671 	DATA 	Keypress: f10
+58.1672 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle1
+58.1672 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+58.1672 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+58.1674 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+58.1919 	EXP 	unnamed TextStim: height = np.float64(0.035)
+58.1919 	EXP 	unnamed TextStim: height = np.float64(0.035)
+58.1919 	EXP 	unnamed TextStim: height = np.float64(0.035)
+58.1919 	EXP 	unnamed TextStim: text = 'Memory test.\n\nOne picture will briefly appear with a number on it, for example +3 or −2.\n+3 means the picture that was shown 3 pictures AFTER that picture.\n−2 means the picture that was shown 2 pictures BEFORE it.\nKeep your eyes on the centre of the screen.\n\nThen the screen goes blank. Try to bring the picture you are looking for to mind.\nWhile the screen is blank, tell us whether you remember it:\npress R if you REMEMBER it, or F if you have FORGOTTEN it.\nTake as long as you need; the screen stays blank until you press R or F.\n\nThen a set of pictures appears: click the one you think it was.\nAlways choose one, and guess if you are unsure.'
+58.1919 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+58.6920 	INFO 	Keyboard events cleared
+59.7578 	DATA 	Keypress: space
+59.7594 	EXP 	Device response: <KeyPress from None: t=59.75328225037083, value=space, duration=None>
+59.7670 	DATA 	EVENT block_start code=100 recall_evening_cycle1
+59.7753 	DATA 	EVENT recall_fixation code=70 
+60.9872 	INFO 	Keyboard events cleared
+60.9916 	DATA 	EVENT recall_cue code=65 stimuli/b (05).jpg|-1
+60.9915 	EXP 	unnamed TextStim: height = np.float64(0.12)
+60.9915 	EXP 	unnamed TextStim: height = np.float64(0.12)
+60.9915 	EXP 	unnamed TextStim: height = np.float64(0.12)
+60.9915 	EXP 	unnamed TextStim: text = '−1'
+61.3716 	DATA 	Keypress: function
+61.4836 	INFO 	Keyboard events cleared
+61.4919 	DATA 	EVENT memory_judgement_blank code=71 
+61.4926 	EXP 	Device response: <KeyPress from None: t=61.48925208346918, value=f10, duration=None>
+61.4929 	DATA 	Keypress: f10
+61.5003 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle1
+61.5003 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+61.5003 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+61.5006 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+61.5169 	EXP 	unnamed TextStim: height = np.float64(0.035)
+61.5169 	EXP 	unnamed TextStim: height = np.float64(0.035)
+61.5169 	EXP 	unnamed TextStim: height = np.float64(0.035)
+61.5169 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.'
+61.5169 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+62.0169 	INFO 	Keyboard events cleared
+62.9467 	DATA 	Keypress: space
+62.9506 	EXP 	Device response: <KeyPress from None: t=62.94219049997628, value=space, duration=None>
+62.9590 	DATA 	EVENT block_start code=100 study_evening_cycle2
+62.9669 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+63.3669 	DATA 	EVENT study_fixation code=16 
+63.5725 	DATA 	Keypress: function
+63.6336 	DATA 	EVENT study_image code=15 stimuli/b (07).jpg
+64.0335 	DATA 	EVENT study_fixation code=16 
+64.0806 	DATA 	Keypress: f10
+64.0836 	DATA 	EVENT stage_skipped code=104 study_evening_cycle2
+64.0836 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+64.0836 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+64.0839 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+64.1002 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.1002 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.1002 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.1002 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+64.1002 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+64.4886 	DATA 	Keypress: f10
+64.6003 	INFO 	Keyboard events cleared
+64.6086 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle2
+64.6087 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+64.6087 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+64.6089 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+64.6252 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.6252 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.6252 	EXP 	unnamed TextStim: height = np.float64(0.035)
+64.6252 	EXP 	unnamed TextStim: text = 'Memory test.\n\nSame as before: the picture with its number, then the screen goes blank.\nPress R if you remember it, F if you have forgotten it.\nThen click the picture you think it was, guessing if you are unsure.'
+64.6252 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+65.0064 	DATA 	Keypress: f10
+65.1252 	INFO 	Keyboard events cleared
+65.1335 	DATA 	EVENT stage_skipped code=104 recall_instructions_cycle2
+65.1336 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+65.1336 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+65.1338 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+65.1419 	DATA 	EVENT block_start code=100 recall_evening_cycle2
+65.1502 	DATA 	EVENT recall_fixation code=70 
+66.5676 	INFO 	Keyboard events cleared
+66.5751 	DATA 	EVENT recall_cue code=62 stimuli/o (06).jpg|+1
+66.5751 	EXP 	unnamed TextStim: height = np.float64(0.12)
+66.5751 	EXP 	unnamed TextStim: height = np.float64(0.12)
+66.5751 	EXP 	unnamed TextStim: height = np.float64(0.12)
+66.5751 	EXP 	unnamed TextStim: text = '+1'
+66.9255 	EXP 	Device response: <KeyPress from None: t=66.92207554168999, value=f10, duration=None>
+66.9269 	DATA 	Keypress: f10
+66.9336 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle2
+66.9336 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+66.9336 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+66.9339 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+66.9501 	EXP 	unnamed TextStim: height = np.float64(0.035)
+66.9501 	EXP 	unnamed TextStim: height = np.float64(0.035)
+66.9501 	EXP 	unnamed TextStim: height = np.float64(0.035)
+66.9501 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.'
+66.9501 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+67.4502 	INFO 	Keyboard events cleared
+67.4587 	EXP 	Device response: <KeyPress from None: t=67.4580819583498, value=f10, duration=None>
+67.4625 	DATA 	Keypress: f10
+67.4669 	DATA 	EVENT stage_skipped code=104 study_instructions_cycle3
+67.4669 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+67.4669 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+67.4672 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+67.4752 	DATA 	EVENT block_start code=100 study_evening_cycle3
+67.4835 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+67.8835 	DATA 	EVENT study_fixation code=16 
+67.9586 	DATA 	Keypress: f10
+67.9587 	DATA 	EVENT stage_skipped code=104 study_evening_cycle3
+67.9587 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+67.9587 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+67.9590 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+67.9752 	EXP 	unnamed TextStim: height = np.float64(0.035)
+67.9752 	EXP 	unnamed TextStim: height = np.float64(0.035)
+67.9752 	EXP 	unnamed TextStim: height = np.float64(0.035)
+67.9752 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+67.9752 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+68.4753 	INFO 	Keyboard events cleared
+68.5222 	DATA 	Keypress: f10
+68.5252 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle3
+68.5252 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+68.5252 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+68.5255 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+68.5418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+68.5418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+68.5418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+68.5418 	EXP 	unnamed TextStim: text = 'Memory test.\n\nSame as before: the picture with its number, then the screen goes blank.\nPress R if you remember it, F if you have forgotten it.\nThen click the picture you think it was, guessing if you are unsure.'
+68.5418 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+68.9901 	DATA 	Keypress: f10
+69.0419 	INFO 	Keyboard events cleared
+69.0502 	DATA 	EVENT stage_skipped code=104 recall_instructions_cycle3
+69.0502 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+69.0503 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+69.0505 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+69.0586 	DATA 	EVENT block_start code=100 recall_evening_cycle3
+69.0669 	DATA 	EVENT recall_fixation code=70 
+70.5179 	INFO 	Keyboard events cleared
+70.5251 	DATA 	EVENT recall_cue code=64 stimuli/w (01).jpg|-3
+70.5248 	EXP 	unnamed TextStim: height = np.float64(0.12)
+70.5248 	EXP 	unnamed TextStim: height = np.float64(0.12)
+70.5248 	EXP 	unnamed TextStim: height = np.float64(0.12)
+70.5248 	EXP 	unnamed TextStim: text = '−3'
+70.8216 	DATA 	Keypress: f10
+70.8252 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle3
+70.8252 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+70.8252 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+70.8256 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+70.8418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+70.8418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+70.8418 	EXP 	unnamed TextStim: height = np.float64(0.035)
+70.8418 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.'
+70.8418 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+71.3419 	INFO 	Keyboard events cleared
+79.0631 	DATA 	Keypress: function
+79.3087 	EXP 	Device response: <KeyPress from None: t=79.30647625029087, value=f10, duration=None>
+79.3101 	DATA 	Keypress: f10
+79.3169 	DATA 	EVENT stage_skipped code=104 study_instructions_cycle4
+79.3169 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+79.3169 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+79.3172 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+79.3252 	DATA 	EVENT block_start code=100 study_evening_cycle4
+79.3334 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+79.7334 	DATA 	EVENT study_fixation code=16 
+79.8143 	DATA 	Keypress: f10
+79.8168 	DATA 	EVENT stage_skipped code=104 study_evening_cycle4
+79.8168 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+79.8168 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+79.8171 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+79.8334 	EXP 	unnamed TextStim: height = np.float64(0.035)
+79.8334 	EXP 	unnamed TextStim: height = np.float64(0.035)
+79.8334 	EXP 	unnamed TextStim: height = np.float64(0.035)
+79.8334 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+79.8334 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+80.2183 	DATA 	Keypress: f10
+80.3335 	INFO 	Keyboard events cleared
+80.3418 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle4
+80.3418 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+80.3418 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+80.3421 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+80.3584 	EXP 	unnamed TextStim: height = np.float64(0.035)
+80.3584 	EXP 	unnamed TextStim: height = np.float64(0.035)
+80.3584 	EXP 	unnamed TextStim: height = np.float64(0.035)
+80.3584 	EXP 	unnamed TextStim: text = 'Memory test.\n\nSame as before: the picture with its number, then the screen goes blank.\nPress R if you remember it, F if you have forgotten it.\nThen click the picture you think it was, guessing if you are unsure.'
+80.3584 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+80.6491 	DATA 	Keypress: f10
+80.8585 	INFO 	Keyboard events cleared
+80.8668 	DATA 	EVENT stage_skipped code=104 recall_instructions_cycle4
+80.8668 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+80.8668 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+80.8671 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+80.8751 	DATA 	EVENT block_start code=100 recall_evening_cycle4
+80.8834 	DATA 	EVENT recall_fixation code=70 
+81.3305 	DATA 	Keypress: f10
+81.3334 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle4
+81.3334 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+81.3334 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+81.3338 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+81.3500 	EXP 	unnamed TextStim: height = np.float64(0.035)
+81.3500 	EXP 	unnamed TextStim: height = np.float64(0.035)
+81.3500 	EXP 	unnamed TextStim: height = np.float64(0.035)
+81.3500 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.'
+81.3500 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+81.8501 	INFO 	Keyboard events cleared
+82.1252 	DATA 	Keypress: f10
+82.1253 	DATA 	EVENT stage_skipped code=104 study_instructions_cycle5
+82.1253 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+82.1253 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+82.1257 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+82.1335 	DATA 	EVENT block_start code=100 study_evening_cycle5
+82.1418 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+82.5417 	DATA 	EVENT study_fixation code=16 
+82.7453 	DATA 	Keypress: f10
+82.7501 	DATA 	EVENT stage_skipped code=104 study_evening_cycle5
+82.7502 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+82.7502 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+82.7506 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+82.7668 	EXP 	unnamed TextStim: height = np.float64(0.035)
+82.7668 	EXP 	unnamed TextStim: height = np.float64(0.035)
+82.7668 	EXP 	unnamed TextStim: height = np.float64(0.035)
+82.7668 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+82.7668 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+83.2668 	INFO 	Keyboard events cleared
+83.4048 	DATA 	Keypress: f10
+83.4084 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle5
+83.4084 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+83.4084 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+83.4089 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+83.4249 	EXP 	unnamed TextStim: height = np.float64(0.035)
+83.4249 	EXP 	unnamed TextStim: height = np.float64(0.035)
+83.4249 	EXP 	unnamed TextStim: height = np.float64(0.035)
+83.4249 	EXP 	unnamed TextStim: text = 'Memory test.\n\nSame as before: the picture with its number, then the screen goes blank.\nPress R if you remember it, F if you have forgotten it.\nThen click the picture you think it was, guessing if you are unsure.'
+83.4249 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+83.9250 	INFO 	Keyboard events cleared
+84.0063 	DATA 	Keypress: f10
+84.0085 	DATA 	EVENT stage_skipped code=104 recall_instructions_cycle5
+84.0085 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+84.0085 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+84.0090 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+84.0168 	DATA 	EVENT block_start code=100 recall_evening_cycle5
+84.0251 	DATA 	EVENT recall_fixation code=70 
+85.4089 	INFO 	Keyboard events cleared
+85.4168 	DATA 	EVENT recall_cue code=62 stimuli/o (03).jpg|-1
+85.4167 	EXP 	unnamed TextStim: height = np.float64(0.12)
+85.4167 	EXP 	unnamed TextStim: height = np.float64(0.12)
+85.4167 	EXP 	unnamed TextStim: height = np.float64(0.12)
+85.4167 	EXP 	unnamed TextStim: text = '−1'
+85.9085 	INFO 	Keyboard events cleared
+85.9167 	DATA 	EVENT memory_judgement_blank code=71 
+85.9174 	EXP 	Device response: <KeyPress from None: t=85.91429533343762, value=f10, duration=None>
+85.9185 	DATA 	Keypress: f10
+85.9251 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle5
+85.9252 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+85.9252 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+85.9257 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+85.9417 	EXP 	unnamed TextStim: height = np.float64(0.035)
+85.9417 	EXP 	unnamed TextStim: height = np.float64(0.035)
+85.9417 	EXP 	unnamed TextStim: height = np.float64(0.035)
+85.9417 	EXP 	unnamed TextStim: text = 'Picture viewing.\n\nPictures will appear one at a time. Please pay attention to each one.'
+85.9417 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+86.4418 	INFO 	Keyboard events cleared
+87.9836 	EXP 	Device response: <KeyPress from None: t=87.98223850037903, value=f10, duration=None>
+87.9870 	DATA 	Keypress: f10
+87.9918 	DATA 	EVENT stage_skipped code=104 study_instructions_cycle6
+87.9918 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+87.9918 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+87.9923 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+88.0001 	DATA 	EVENT block_start code=100 study_evening_cycle6
+88.0084 	DATA 	EVENT study_image code=14 stimuli/w (04).jpg
+88.4084 	DATA 	EVENT study_fixation code=16 
+88.6417 	DATA 	EVENT study_image code=15 stimuli/b (07).jpg
+89.0417 	DATA 	EVENT study_fixation code=16 
+89.1750 	DATA 	EVENT study_image code=11 stimuli/f (02).jpg
+89.5095 	DATA 	Keypress: f10
+89.5168 	DATA 	EVENT stage_skipped code=104 study_evening_cycle6
+89.5168 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+89.5168 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+89.5173 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+89.5333 	EXP 	unnamed TextStim: height = np.float64(0.035)
+89.5333 	EXP 	unnamed TextStim: height = np.float64(0.035)
+89.5333 	EXP 	unnamed TextStim: height = np.float64(0.035)
+89.5333 	EXP 	unnamed TextStim: text = 'Keep your eyes on the cross.\n\nSilently count how many times it gets LIGHTER.\nIgnore the times it gets darker.'
+89.5333 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+90.0334 	INFO 	Keyboard events cleared
+90.1965 	DATA 	Keypress: f10
+90.2001 	DATA 	EVENT stage_skipped code=104 shades_evening_cycle6
+90.2001 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+90.2001 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+90.2006 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+90.2167 	EXP 	unnamed TextStim: height = np.float64(0.035)
+90.2167 	EXP 	unnamed TextStim: height = np.float64(0.035)
+90.2167 	EXP 	unnamed TextStim: height = np.float64(0.035)
+90.2167 	EXP 	unnamed TextStim: text = 'Memory test.\n\nSame as before: the picture with its number, then the screen goes blank.\nPress R if you remember it, F if you have forgotten it.\nThen click the picture you think it was, guessing if you are unsure.'
+90.2167 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+90.7168 	INFO 	Keyboard events cleared
+90.9002 	EXP 	Device response: <KeyPress from None: t=90.89815495861694, value=f10, duration=None>
+90.9017 	DATA 	Keypress: f10
+90.9084 	DATA 	EVENT stage_skipped code=104 recall_instructions_cycle6
+90.9084 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+90.9084 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+90.9090 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+90.9168 	DATA 	EVENT block_start code=100 recall_evening_cycle6
+90.9250 	DATA 	EVENT recall_fixation code=70 
+92.0588 	INFO 	Keyboard events cleared
+92.0667 	DATA 	EVENT recall_cue code=65 stimuli/b (06).jpg|-3
+92.0667 	EXP 	unnamed TextStim: height = np.float64(0.12)
+92.0667 	EXP 	unnamed TextStim: height = np.float64(0.12)
+92.0667 	EXP 	unnamed TextStim: height = np.float64(0.12)
+92.0667 	EXP 	unnamed TextStim: text = '−3'
+92.5584 	INFO 	Keyboard events cleared
+92.5667 	DATA 	EVENT memory_judgement_blank code=71 
+92.6902 	DATA 	Keypress: f10
+92.6917 	DATA 	EVENT stage_skipped code=104 recall_evening_cycle6
+92.6918 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+92.6918 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+92.6924 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+92.7080 	EXP 	unnamed TextStim: height = np.float64(0.035)
+92.7080 	EXP 	unnamed TextStim: height = np.float64(0.035)
+92.7080 	EXP 	unnamed TextStim: height = np.float64(0.035)
+92.7080 	EXP 	unnamed TextStim: text = 'Picture order.\n\nAll the pictures will appear on the screen. Click them in the order you saw them, starting with the very FIRST picture you saw, then the second, and so on.\n\nEach picture you click fades out. The last one you clicked is shown at the top.\nClick UNDO to take back your last click.\n\nPlace all the pictures, guessing if you are unsure, then click DONE.'
+92.7080 	EXP 	unnamed TextStim: text = 'Press SPACE to start'
+93.2080 	INFO 	Keyboard events cleared
+93.3669 	DATA 	Keypress: f10
+93.3670 	DATA 	EVENT stage_skipped code=104 reconstruction_evening
+93.3670 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+93.3670 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+93.3676 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.035)
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.035)
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.035)
+93.3833 	EXP 	unnamed TextStim: text = 'That is the end of this session.\n\nThank you! Please let the experimenter know you have finished.'
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.028)
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.028)
+93.3833 	EXP 	unnamed TextStim: height = np.float64(0.028)
+93.3833 	EXP 	unnamed TextStim: text = ''
+93.8834 	INFO 	Keyboard events cleared
+94.4820 	DATA 	Keypress: f10
+94.4833 	DATA 	EVENT stage_skipped code=104 end
+94.4834 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+94.4834 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+94.4840 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+94.4916 	DATA 	EVENT session_end code=251 evening_from1
+94.4916 	WARNING 	Data file, data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv, will be overwritten
+94.4916 	INFO 	Data file data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv will be overwritten
+94.4922 	INFO 	saved data to 'data/P01_evening_quicktest_2026-11-02_15h40.17.913.csv'
+94.5106 	INFO 	Stopping keyboard key buffers.

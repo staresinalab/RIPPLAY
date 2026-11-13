@@ -1,0 +1,21 @@
+time,event,code,category,detail,phase,session,cycle,trial
+15.505035,session_start,250,,evening_from1,,,,
+17.265021,stage_skipped,104,,welcome,,,,
+18.241720,stage_skipped,104,,localizer_evening,localizer,evening,,
+18.806961,stage_skipped,104,,study_instructions_cycle1,localizer,evening,,
+18.823651,block_start,100,,study_evening_cycle1,study,evening,1,
+18.840312,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+19.257369,stage_skipped,104,,study_evening_cycle1,study,evening,1,1
+20.675184,stage_skipped,104,,shades_evening_cycle1,shades_of_grey,evening,1,
+24.378221,block_start,100,,recall_evening_cycle1,recall,evening,1,
+24.394832,recall_fixation,70,,,recall,evening,1,1
+25.896042,recall_cue,65,body,stimuli/b (05).jpg|-1,recall,evening,1,1
+26.396518,memory_judgement_blank,71,,,recall,evening,1,1
+31.383973,memory_timeout,74,,,recall,evening,1,1
+31.400629,choice_screen,75,,,recall,evening,1,1
+37.722726,choice_response,76,,slot_10,recall,evening,1,1
+37.755838,recall_fixation,70,,,recall,evening,1,2
+38.840091,recall_cue,61,face,stimuli/f (01).jpg|+2,recall,evening,1,2
+39.340468,memory_judgement_blank,71,,,recall,evening,1,2
+44.327967,memory_timeout,74,,,recall,evening,1,2
+44.344617,choice_screen,75,,,recall,evening,1,2

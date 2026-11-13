@@ -1,0 +1,7 @@
+﻿thisRow.t,notes,participant,stage_skipped,phase,session,cycle,trial,participant,session,start_run,reconstruction,localizer,quick_test,date,runtime_seed,design_seed,trigger_backend,setup_number_of_choices,setup_sampling,setup_near_band_radius,setup_mid_band_radius,setup_mid_band_count,setup_camouflage_run_length,setup_camouflage_min_distance,setup_far_min_distance,setup_nearest_per_category_side,setup_camouflage_cycles,frame_rate,
+,,P01,welcome,,evening,,,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,
+,,P01,localizer_evening,localizer,evening,,,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,
+,,P01,study_instructions_cycle1,localizer,evening,,,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,
+,,P01,study_evening_cycle1,study,evening,1,1,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,
+,,P01,shades_evening_cycle1,shades_of_grey,evening,1,,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,
+,,P01,recall_instructions_cycle1,shades_of_grey,evening,1,,P01,evening,1,True,True,False,2026-11-05_14h27.34.529,202611261,20261026,none,20,random,3,6,3,6,10,7,1,1,59.95,

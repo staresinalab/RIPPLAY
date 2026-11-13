@@ -1,0 +1,97 @@
+time,event,code,category,detail,phase,session,cycle,trial
+16.093108,session_start,250,,evening_from1,,,,
+18.080623,stage_skipped,104,,welcome,,,,
+18.609583,stage_skipped,104,,study_instructions_cycle1,,,,
+18.707203,block_start,100,,study_evening_cycle1,study,evening,1,
+18.717866,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+19.292936,stage_skipped,104,,study_evening_cycle1,study,evening,1,1
+19.859469,stage_skipped,104,,shades_evening_cycle1,shades_of_grey,evening,1,
+20.576251,stage_skipped,104,,recall_instructions_cycle1,shades_of_grey,evening,1,
+20.584576,block_start,100,,recall_evening_cycle1,recall,evening,1,
+20.592490,recall_fixation,70,,,recall,evening,1,1
+21.925807,recall_cue,65,body,stimuli/b (05).jpg|-1,recall,evening,1,1
+22.401224,stage_skipped,104,,recall_evening_cycle1,recall,evening,1,1
+23.126201,stage_skipped,104,,study_instructions_cycle2,recall,evening,1,1
+23.134557,block_start,100,,study_evening_cycle2,study,evening,2,
+23.142785,study_image,14,word,stimuli/w (04).jpg,study,evening,2,1
+23.684555,stage_skipped,104,,study_evening_cycle2,study,evening,2,1
+24.551439,stage_skipped,104,,shades_evening_cycle2,shades_of_grey,evening,2,
+25.376117,stage_skipped,104,,recall_instructions_cycle2,shades_of_grey,evening,2,
+25.384471,block_start,100,,recall_evening_cycle2,recall,evening,2,
+25.392726,recall_fixation,70,,,recall,evening,2,1
+26.434407,recall_cue,62,object,stimuli/o (06).jpg|+1,recall,evening,2,1
+26.934498,memory_judgement_blank,71,,,recall,evening,2,1
+27.092846,stage_skipped,104,,recall_evening_cycle2,recall,evening,2,1
+28.359552,stage_skipped,104,,study_instructions_cycle3,recall,evening,2,1
+28.367869,block_start,100,,study_evening_cycle3,study,evening,3,
+28.376123,study_image,14,word,stimuli/w (04).jpg,study,evening,3,1
+31.376064,study_fixation,16,,,study,evening,3,1
+33.101094,study_image,15,body,stimuli/b (07).jpg,study,evening,3,2
+33.542799,stage_skipped,104,,study_evening_cycle3,study,evening,3,2
+34.926090,stage_skipped,104,,shades_evening_cycle3,shades_of_grey,evening,3,
+35.651098,stage_skipped,104,,recall_instructions_cycle3,shades_of_grey,evening,3,
+35.659423,block_start,100,,recall_evening_cycle3,recall,evening,3,
+35.667727,recall_fixation,70,,,recall,evening,3,1
+36.976057,recall_cue,64,word,stimuli/w (01).jpg|-3,recall,evening,3,1
+37.476030,memory_judgement_blank,71,,,recall,evening,3,1
+37.851422,stage_skipped,104,,recall_evening_cycle3,recall,evening,3,1
+39.034409,stage_skipped,104,,study_instructions_cycle4,recall,evening,3,1
+39.042777,block_start,100,,study_evening_cycle4,study,evening,4,
+39.051023,study_image,14,word,stimuli/w (04).jpg,study,evening,4,1
+40.459651,stage_skipped,104,,study_evening_cycle4,study,evening,4,1
+40.984424,stage_skipped,104,,shades_evening_cycle4,shades_of_grey,evening,4,
+43.518033,stage_skipped,104,,recall_instructions_cycle4,shades_of_grey,evening,4,
+43.526006,block_start,100,,recall_evening_cycle4,recall,evening,4,
+43.534266,recall_fixation,70,,,recall,evening,4,1
+44.742653,recall_cue,62,object,stimuli/o (02).jpg|-2,recall,evening,4,1
+45.242672,memory_judgement_blank,71,,,recall,evening,4,1
+47.917972,recall_remember,72,,,recall,evening,4,1
+47.925639,choice_screen,75,,,recall,evening,4,1
+83.603635,stage_skipped,104,,recall_evening_cycle4,recall,evening,4,1
+85.067488,stage_skipped,104,,study_instructions_cycle5,recall,evening,4,1
+85.075769,block_start,100,,study_evening_cycle5,study,evening,5,
+85.084080,study_image,14,word,stimuli/w (04).jpg,study,evening,5,1
+88.083988,study_fixation,16,,,study,evening,5,1
+89.242383,study_image,15,body,stimuli/b (07).jpg,study,evening,5,2
+89.650770,stage_skipped,104,,study_evening_cycle5,study,evening,5,2
+90.609084,stage_skipped,104,,shades_evening_cycle5,shades_of_grey,evening,5,
+91.342376,stage_skipped,104,,recall_instructions_cycle5,shades_of_grey,evening,5,
+91.350750,block_start,100,,recall_evening_cycle5,recall,evening,5,
+91.358967,recall_fixation,70,,,recall,evening,5,1
+92.492392,recall_cue,62,object,stimuli/o (03).jpg|-1,recall,evening,5,1
+92.992358,memory_judgement_blank,71,,,recall,evening,5,1
+118.067217,stage_skipped,104,,recall_evening_cycle5,recall,evening,5,1
+124.567140,stage_skipped,104,,study_instructions_cycle6,recall,evening,5,1
+124.575534,block_start,100,,study_evening_cycle6,study,evening,6,
+124.583775,study_image,14,word,stimuli/w (04).jpg,study,evening,6,1
+126.167205,stage_skipped,104,,study_evening_cycle6,study,evening,6,1
+127.975499,stage_skipped,104,,shades_evening_cycle6,shades_of_grey,evening,6,
+161.550678,stage_skipped,104,,recall_instructions_cycle6,shades_of_grey,evening,6,
+161.558611,block_start,100,,recall_evening_cycle6,recall,evening,6,
+161.566888,recall_fixation,70,,,recall,evening,6,1
+162.799816,recall_cue,65,body,stimuli/b (06).jpg|-3,recall,evening,6,1
+163.300193,memory_judgement_blank,71,,,recall,evening,6,1
+166.225530,recall_forgotten,73,,,recall,evening,6,1
+166.246749,choice_screen,75,,,recall,evening,6,1
+167.427124,stage_skipped,104,,recall_evening_cycle6,recall,evening,6,1
+169.825076,reconstruction_screen,80,,evening,reconstruction,evening,,
+196.066977,reconstruction_pick,81,,slot_32,reconstruction,evening,,1
+199.791687,reconstruction_undo,82,,slot_32,reconstruction,evening,,2
+201.725234,reconstruction_pick,81,,slot_32,reconstruction,evening,,3
+202.975254,reconstruction_pick,81,,slot_33,reconstruction,evening,,4
+205.492078,reconstruction_pick,81,,slot_34,reconstruction,evening,,5
+208.166662,reconstruction_undo,82,,slot_34,reconstruction,evening,,6
+208.591622,reconstruction_undo,82,,slot_33,reconstruction,evening,,7
+209.199985,reconstruction_undo,82,,slot_32,reconstruction,evening,,8
+210.666921,reconstruction_pick,81,,slot_33,reconstruction,evening,,9
+211.508492,reconstruction_pick,81,,slot_32,reconstruction,evening,,10
+213.566624,reconstruction_undo,82,,slot_32,reconstruction,evening,,11
+214.141669,reconstruction_undo,82,,slot_33,reconstruction,evening,,12
+222.958423,reconstruction_pick,81,,slot_24,reconstruction,evening,,13
+234.516636,reconstruction_pick,81,,slot_23,reconstruction,evening,,14
+236.541668,reconstruction_pick,81,,slot_25,reconstruction,evening,,15
+239.216649,reconstruction_pick,81,,slot_26,reconstruction,evening,,16
+241.408237,reconstruction_pick,81,,slot_16,reconstruction,evening,,17
+242.524921,reconstruction_pick,81,,slot_15,reconstruction,evening,,18
+243.733249,reconstruction_pick,81,,slot_14,reconstruction,evening,,19
+2082.370521,session_end,251,,quit key,reconstruction,evening,,19

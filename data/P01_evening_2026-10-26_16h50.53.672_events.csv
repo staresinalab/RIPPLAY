@@ -1,0 +1,132 @@
+time,event,code,category,detail,phase,session,cycle,trial
+7.662807,session_start,250,,evening_from1,,,,
+9.822478,block_start,100,,study_evening_cycle1,study,evening,1,
+9.848967,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+12.851405,study_fixation,16,,,study,evening,1,1
+14.519477,study_image,15,body,stimuli/b (07).jpg,study,evening,1,2
+17.521973,study_fixation,16,,,study,evening,1,2
+18.606189,study_image,11,face,stimuli/f (02).jpg,study,evening,1,3
+21.608627,study_fixation,16,,,study,evening,1,3
+23.326705,study_image,13,scene,stimuli/s (04).jpg,study,evening,1,4
+26.329182,study_fixation,16,,,study,evening,1,4
+27.947087,study_image,12,object,stimuli/o (06).jpg,study,evening,1,5
+30.949626,study_fixation,16,,,study,evening,1,5
+32.367443,study_image,14,word,stimuli/w (09).jpg,study,evening,1,6
+35.369880,study_fixation,16,,,study,evening,1,6
+36.537582,study_image,11,face,stimuli/f (04).jpg,study,evening,1,7
+39.540043,study_fixation,16,,,study,evening,1,7
+40.807690,study_image,15,body,stimuli/b (06).jpg,study,evening,1,8
+43.810182,study_fixation,16,,,study,evening,1,8
+45.278050,study_image,13,scene,stimuli/s (06).jpg,study,evening,1,9
+48.280549,study_fixation,16,,,study,evening,1,9
+50.115403,study_image,12,object,stimuli/o (10).jpg,study,evening,1,10
+53.117875,study_fixation,16,,,study,evening,1,10
+54.502332,study_image,15,body,stimuli/b (05).jpg,study,evening,1,11
+57.504817,study_fixation,16,,,study,evening,1,11
+59.322987,study_image,14,word,stimuli/w (07).jpg,study,evening,1,12
+62.325448,study_fixation,16,,,study,evening,1,12
+63.643171,study_image,11,face,stimuli/f (03).jpg,study,evening,1,13
+66.645659,study_fixation,16,,,study,evening,1,13
+68.080172,study_image,13,scene,stimuli/s (08).jpg,study,evening,1,14
+71.082640,study_fixation,16,,,study,evening,1,14
+72.917438,study_image,12,object,stimuli/o (04).jpg,study,evening,1,15
+75.919932,study_fixation,16,,,study,evening,1,15
+77.170974,study_image,14,word,stimuli/w (10).jpg,study,evening,1,16
+80.173407,study_fixation,16,,,study,evening,1,16
+82.024964,study_image,11,face,stimuli/f (07).jpg,study,evening,1,17
+85.027428,study_fixation,16,,,study,evening,1,17
+86.578744,study_image,13,scene,stimuli/s (05).jpg,study,evening,1,18
+89.581175,study_fixation,16,,,study,evening,1,18
+91.499350,study_image,15,body,stimuli/b (08).jpg,study,evening,1,19
+94.501875,study_fixation,16,,,study,evening,1,19
+96.186601,study_image,12,object,stimuli/o (09).jpg,study,evening,1,20
+99.189046,study_fixation,16,,,study,evening,1,20
+100.606892,study_image,14,word,stimuli/w (03).jpg,study,evening,1,21
+103.609289,study_fixation,16,,,study,evening,1,21
+105.560966,study_image,11,face,stimuli/f (09).jpg,study,evening,1,22
+108.563409,study_fixation,16,,,study,evening,1,22
+110.348234,study_image,13,scene,stimuli/s (02).jpg,study,evening,1,23
+113.350617,study_fixation,16,,,study,evening,1,23
+115.002080,study_image,12,object,stimuli/o (05).jpg,study,evening,1,24
+118.004554,study_fixation,16,,,study,evening,1,24
+119.172177,study_image,15,body,stimuli/b (09).jpg,study,evening,1,25
+122.174644,study_fixation,16,,,study,evening,1,25
+123.459041,study_image,15,body,stimuli/b (04).jpg,study,evening,1,26
+126.461496,study_fixation,16,,,study,evening,1,26
+127.795912,study_image,14,word,stimuli/w (06).jpg,study,evening,1,27
+130.798313,study_fixation,16,,,study,evening,1,27
+132.649834,study_image,11,face,stimuli/f (06).jpg,study,evening,1,28
+135.652313,study_fixation,16,,,study,evening,1,28
+137.570635,study_image,13,scene,stimuli/s (10).jpg,study,evening,1,29
+140.573084,study_fixation,16,,,study,evening,1,29
+141.590557,study_image,12,object,stimuli/o (03).jpg,study,evening,1,30
+144.593033,study_fixation,16,,,study,evening,1,30
+146.094274,study_image,14,word,stimuli/w (01).jpg,study,evening,1,31
+149.096739,study_fixation,16,,,study,evening,1,31
+150.748128,study_image,15,body,stimuli/b (03).jpg,study,evening,1,32
+153.750576,study_fixation,16,,,study,evening,1,32
+155.085025,study_image,11,face,stimuli/f (01).jpg,study,evening,1,33
+158.087489,study_fixation,16,,,study,evening,1,33
+159.755507,study_image,13,scene,stimuli/s (09).jpg,study,evening,1,34
+162.757984,study_fixation,16,,,study,evening,1,34
+163.892243,study_image,12,object,stimuli/o (08).jpg,study,evening,1,35
+166.894702,study_fixation,16,,,study,evening,1,35
+168.245814,study_image,14,word,stimuli/w (02).jpg,study,evening,1,36
+171.248303,study_fixation,16,,,study,evening,1,36
+172.732773,study_image,11,face,stimuli/f (05).jpg,study,evening,1,37
+175.735260,study_fixation,16,,,study,evening,1,37
+177.620177,study_image,13,scene,stimuli/s (07).jpg,study,evening,1,38
+180.622684,study_fixation,16,,,study,evening,1,38
+182.290694,study_image,15,body,stimuli/b (02).jpg,study,evening,1,39
+185.293166,study_fixation,16,,,study,evening,1,39
+186.494096,study_image,12,object,stimuli/o (02).jpg,study,evening,1,40
+189.496620,study_fixation,16,,,study,evening,1,40
+190.931134,study_image,14,word,stimuli/w (05).jpg,study,evening,1,41
+193.933615,study_fixation,16,,,study,evening,1,41
+195.584977,study_image,11,face,stimuli/f (10).jpg,study,evening,1,42
+198.587417,study_fixation,16,,,study,evening,1,42
+199.588260,study_image,13,scene,stimuli/s (03).jpg,study,evening,1,43
+202.590729,study_fixation,16,,,study,evening,1,43
+204.325469,study_image,12,object,stimuli/o (07).jpg,study,evening,1,44
+207.327923,study_fixation,16,,,study,evening,1,44
+209.212808,study_image,15,body,stimuli/b (10).jpg,study,evening,1,45
+212.215294,study_fixation,16,,,study,evening,1,45
+214.016760,study_image,14,word,stimuli/w (08).jpg,study,evening,1,46
+217.019247,study_fixation,16,,,study,evening,1,46
+218.070103,study_image,11,face,stimuli/f (08).jpg,study,evening,1,47
+221.072570,study_fixation,16,,,study,evening,1,47
+222.623844,study_image,15,body,stimuli/b (01).jpg,study,evening,1,48
+225.626326,study_fixation,16,,,study,evening,1,48
+227.027464,study_image,13,scene,stimuli/s (01).jpg,study,evening,1,49
+230.029776,study_fixation,16,,,study,evening,1,49
+231.264129,study_image,12,object,stimuli/o (01).jpg,study,evening,1,50
+234.266605,study_fixation,16,,,study,evening,1,50
+235.367553,block_end,101,,study_evening_cycle1,study,evening,1,50
+237.852884,shades_start,50,,shades_evening_cycle1,shades_of_grey,evening,1,
+245.675912,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+251.847710,shades_darker,52,,shades_evening_cycle1,shades_of_grey,evening,1,
+263.056941,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+273.832459,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+281.338630,shades_darker,52,,shades_evening_cycle1,shades_of_grey,evening,1,
+289.828933,shades_darker,52,,shades_evening_cycle1,shades_of_grey,evening,1,
+296.451033,shades_darker,52,,shades_evening_cycle1,shades_of_grey,evening,1,
+307.326658,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+315.316552,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+324.207207,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+337.034406,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+347.509656,shades_lighter,51,,shades_evening_cycle1,shades_of_grey,evening,1,
+357.834841,shades_end,53,,shades_evening_cycle1,shades_of_grey,evening,1,
+572.577868,block_start,100,,recall_evening_cycle1,recall,evening,1,
+572.594536,recall_fixation,70,,,recall,evening,1,1
+573.612028,recall_cue,65,body,stimuli/b (05).jpg|-1,recall,evening,1,1
+574.112471,memory_judgement_blank,71,,,recall,evening,1,1
+580.568094,recall_remember,72,,,recall,evening,1,1
+580.584436,replay_blank,74,,,recall,evening,1,1
+583.920518,choice_screen,75,,,recall,evening,1,1
+1499.306164,choice_response,76,,slot_42,recall,evening,1,1
+1499.339070,recall_fixation,70,,,recall,evening,1,2
+1500.339927,recall_cue,61,face,stimuli/f (01).jpg|+2,recall,evening,1,2
+1500.840327,memory_judgement_blank,71,,,recall,evening,1,2
+1510.215179,recall_forgotten,73,,,recall,evening,1,2
+1510.231367,replay_blank,74,,,recall,evening,1,2
+1513.484073,choice_screen,75,,,recall,evening,1,2

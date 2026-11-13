@@ -1,0 +1,8 @@
+time,event,code,category,detail,phase,session,cycle,trial
+7.997995,session_start,250,,evening_from1,,,,
+10.298471,block_start,100,,study_evening_cycle1,study,evening,1,
+10.323615,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+13.326075,study_fixation,16,,,study,evening,1,1
+14.994064,study_image,15,body,stimuli/b (07).jpg,study,evening,1,2
+17.996553,study_fixation,16,,,study,evening,1,2
+19.080771,study_image,11,face,stimuli/f (02).jpg,study,evening,1,3

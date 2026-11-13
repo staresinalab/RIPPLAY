@@ -1,0 +1,15 @@
+time,event,code,category,detail,phase,session,cycle,trial
+17.652221,session_start,250,,evening_from1,,,,
+25.392467,block_start,100,,localizer_evening,localizer,evening,,
+25.400750,localizer_image,24,word,stimuli/w (03).jpg,localizer,evening,,1
+26.400539,localizer_fixation,26,,,localizer,evening,,1
+27.900762,localizer_image,25,body,stimuli/b (06).jpg,localizer,evening,,2
+28.900730,localizer_fixation,26,,,localizer,evening,,2
+29.984074,localizer_image,24,word,stimuli/w (07).jpg,localizer,evening,,3
+30.984053,localizer_fixation,26,,,localizer,evening,,3
+32.109053,localizer_image,21,face,stimuli/f (04).jpg,localizer,evening,,4
+33.109040,localizer_fixation,26,,,localizer,evening,,4
+34.542401,localizer_image,23,scene,stimuli/s (10).jpg,localizer,evening,,5
+35.542367,localizer_fixation,26,,,localizer,evening,,5
+36.559045,localizer_image,22,object,stimuli/o (04).jpg,localizer,evening,,6
+36.980255,session_end,251,,quit key,localizer,evening,,6

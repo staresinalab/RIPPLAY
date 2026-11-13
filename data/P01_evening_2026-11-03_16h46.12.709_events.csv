@@ -1,0 +1,19 @@
+time,event,code,category,detail,phase,session,cycle,trial
+19.464266,session_start,250,,evening_from1,,,,
+20.653868,stage_skipped,104,,welcome,,,,
+21.317471,stage_skipped,104,,localizer_evening,localizer,evening,,
+21.842546,stage_skipped,104,,study_instructions_cycle1,localizer,evening,,
+21.850879,block_start,100,,study_evening_cycle1,study,evening,1,
+21.859089,study_image,14,word,stimuli/w (04).jpg,study,evening,1,1
+21.901144,stage_skipped,104,,study_evening_cycle1,study,evening,1,1
+22.425934,stage_skipped,104,,shades_evening_cycle1,shades_of_grey,evening,1,
+22.959241,stage_skipped,104,,recall_instructions_cycle1,shades_of_grey,evening,1,
+22.967513,block_start,100,,recall_evening_cycle1,recall,evening,1,
+22.975791,recall_fixation,70,,,recall,evening,1,1
+23.026097,stage_skipped,104,,recall_evening_cycle1,recall,evening,1,1
+23.551002,stage_skipped,104,,study_instructions_cycle2,recall,evening,1,1
+23.559260,block_start,100,,study_evening_cycle2,study,evening,2,
+23.567869,study_image,14,word,stimuli/w (04).jpg,study,evening,2,1
+23.643300,stage_skipped,104,,study_evening_cycle2,study,evening,2,1
+24.167702,stage_skipped,104,,shades_evening_cycle2,shades_of_grey,evening,2,
+24.692595,stage_skipped,104,,recall_instructions_cycle2,shades_of_grey,evening,2,
